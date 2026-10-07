@@ -1,0 +1,11 @@
+.env
+logs/*.log
+!logs/.gitkeep
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+tmp/
+vendor/
